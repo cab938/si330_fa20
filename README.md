@@ -17,8 +17,11 @@ The principal textbook for the course is *Python for Data Analysis: Data Wrangli
 
 ## Tentative Schedule of Topics
 First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
+
 Next 4 weeks: **Scalable Structured Data** (SQL)
+
 Next 4 weeks: **Big Data** (Apache Spark)
+
 Last 2 weeks: **Extended Topics** (Data virtualization, SaaS computing paradigms, RPA)
 
 ## UMSI specific policies
