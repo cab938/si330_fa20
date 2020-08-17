@@ -1,7 +1,9 @@
 # SI 330 Fall 2020
 
 ## About this Course
-*This is a programming course.* This course offers more advanced material for BSI students that deepens knowledge of programming and software development beyond the 106/206 sequence, focusing especially on current computing methods and data structures for obtaining, transforming, and manipulating data. The skills covered in SI 330 will be critical for future Information Analytics and Data Science courses. This course is a programming course -- you will need to be a programmer to succeed.
+*This is a programming course.*
+
+This course offers more advanced material for BSI students that deepens knowledge of programming and software development beyond the 106/206 sequence, focusing especially on current computing methods and data structures for obtaining, transforming, and manipulating data. The skills covered in SI 330 will be critical for future Information Analytics and Data Science courses. This course is a programming course -- you will need to be a programmer to succeed.
 
 Much of the work involved in data science (50-80% is the figure often quoted by data scientists, closer to 80-90% in my own professional experience) is not just in exploration or visualization, but in the initial data manipulation/engineering stages, e.g. gathering, transforming, cleaning, and aggregating. This is the "sewer work" of data science: it’s not glamorous but it’s absolutely critical. Thus, an important goal of the course is not only to cover specific Python-based tools for data manipulation, but also to teach useful high-level, step-by-step ways of thinking about and solving data computing problems, breaking down a complex task into the right kinds of intermediate stages. For example, the operations provided by many powerful data computing platforms, from SQL databases to Spark large-scale computing, can be thought of in terms of 'split-apply-combine' operations applied to data.  Given the fast-moving nature of data science and computing, you’ll find this high-level understanding very useful not only for using today’s computing tools, but for learning new technologies in the future.
 
