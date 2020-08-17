@@ -1,18 +1,36 @@
-# si330_fa20
-SI 330 Fall 2020
+# SI 330 Fall 2020
 
-# UMSI specific policies
+## About this Course
+*This is a programming course.* This course offers more advanced material for BSI students that deepens knowledge of programming and software development beyond the 106/206 sequence, focusing especially on current computing methods and data structures for obtaining, transforming, and manipulating data. The skills covered in SI 330 will be critical for future Information Analytics and Data Science courses. This course is a programming course -- you will need to be a programmer to succeed.
+
+Much of the work involved in data science (50-80% is the figure often quoted by data scientists, closer to 80-90% in my own professional experience) is not just in exploration or visualization, but in the initial data manipulation/engineering stages, e.g. gathering, transforming, cleaning, and aggregating. This is the "sewer work" of data science: it’s not glamorous but it’s absolutely critical. Thus, an important goal of the course is not only to cover specific Python-based tools for data manipulation, but also to teach useful high-level, step-by-step ways of thinking about and solving data computing problems, breaking down a complex task into the right kinds of intermediate stages. For example, the operations provided by many powerful data computing platforms, from SQL databases to Spark large-scale computing, can be thought of in terms of 'split-apply-combine' operations applied to data.  Given the fast-moving nature of data science and computing, you’ll find this high-level understanding very useful not only for using today’s computing tools, but for learning new technologies in the future.
+
+## My Teaching Philosophy
+I have two jobs in this course: (a) to teach you and help you learn and (b) to evaluate whether you have learned. Sometimes these roles conflict. I set a high bar on expectations, but my goal with the assessments I give is to lower the stakes at any one time, and give you ample opportunity to demonstrate to me that you are capable with this material. 
+
+## Textbook & Technology
+It is expected that you will have regular access to high speed consistent internet as well as a modern computing environment. The course will be offered synchronously and it is expected that you will attend all lectures and discussions.
+
+The principal textbook for the course is *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and iPython* (2017) 2nd edition by Wes McKinney (O’Reilly).  The library has [digital copies](http://umich.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwpV09T8MwED2VhgEJqXwKyoe8sBFI7KSNJ4RoIgRIZYC5cuKLBCpR1SYD_x6fEwvowMKSxVLknBXfu7t37wCCtfvgvZnjwg-vmg89N48uhUblx1HsU8xLae0nfpvFD5lIe5C6vhiiWK5UaWJGApyrVjrCFVKt3ANlz9sxQddWu0mG0uDnWNyo5QZ4JPUe98GbTifp43fiRRrMQFPdN9t3_3An2QAcN6klkVi1JrfjNZ3Gf-9wBzykhoZd6GG1BwM3xoF1f_U-XDx_koAAM_CVTVStmBMquWS80izVltV1AK9Z-nJ373fTE_w3kmPww5Hx3OOgRBJcL3KJWsskipAXxH_iJgCVZZTkwiAQhVyUUogipKpZmeeK61AcwrYiln1V2248fQRsnOsoMdcALwRGOuHSgJ8YOZoYSKhEyWMYtuaYWXvMfn3y8K_FE9ji5DCJKxKcQr9eNngGnjX-eXeEX7lyrbw).
+
+## Tentative Schedule of Topics
+First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
+Next 4 weeks: **Scalable Structured Data** (SQL)
+Next 4 weeks: **Big Data** (Apache Spark)
+Last 2 weeks: **Extended Topics** (Data virtualization, SaaS computing paradigms, RPA)
+
+## UMSI specific policies
 
 Please note the following UM or UMSI specific policies with respect to this course.
 
-## COVID Statement
+### COVID Statement
 For the safety of all students, faculty, and staff on campus, it is important for each of us to be mindful of safety measures that have been put in place for our protection. By returning to campus, you have acknowledged your responsibility for protecting the collective health of our community.  Your participation in this course on an in-person basis is conditional upon your adherence to all safety measures mandated by the State of Michigan and the University, including maintaining physical distancing of six feet from others, and properly wearing a face covering in class.  Other applicable safety measures may be described in the [Wolverine Culture of Care](https://campusblueprint.umich.edu/uploads/Wolverine_Culture_of_Care%20sign_8.5x11_UPDATED_071520.pdf) and the [University’s Face Covering Policy for COVID-19](http://ehs.umich.edu/wp-content/uploads/2020/07/U-M-Face-Covering-Policy-for-COVID-19.pdf).  Your ability to participate in this course in-person as well as your grade may be impacted by failure to comply with campus safety measures.  Individuals seeking to request an accommodation related to the face covering requirement under the Americans with Disabilities Act should contact the [Office for Institutional Equity](https://oie.umich.edu/american-with-disabilities-act-ada/).  If you are unable or unwilling to adhere to these safety measures while in a face-to-face class setting, you will be required to participate on a remote basis (if available) or to disenroll from the class.  I also encourage you to review the [Statement of Students Rights and Responsibilities](https://oscr.umich.edu/statement), which includes a [COVID-related Statement Addendum](https://oscr.umich.edu/sites/oscr.umich.edu/files/2020_statement_addendum_final_approved.pdf).
 
-## Student Mental Health and Wellbeing
+### Student Mental Health and Wellbeing
 The University of Michigan is committed to advancing the mental health and wellbeing of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. For help, contact Counseling and Psychological Services (CAPS) at (734) 764-8312 and https://caps.umich.edu/ during and after hours, on weekends and holidays. You may also consult University Health Service (UHS) at (734) 764-8320 and https://www.uhs.umich.edu/mentalhealthsvcs, or for alcohol or drug concerns, see www.uhs.umich.edu/aodresources. Since many students are remote during fall 2020, [CAPS COVID-19 Support](https://caps.umich.edu/topic/caps-covid-19-support) features [SilverCloud](https://caps.umich.edu/silvercloud), an online, self-guided, interactive mental health resource that provides cognitive behavioral interventions.For a listing of other mental health resources available on and off campus, visit: http://umich.edu/~mhealth/
 
-## Academic Integrity
+### Academic Integrity
 Unless otherwise specified in an assignment all submitted work must be your own, original work. Any excerpts, statements, or phrases from the work of others must be clearly identified as a quotation, and a proper citation provided. Any violation of the School’s policy on Academic and Professional Integrity (stated in the Bachelor's, Master’s and Doctoral Student Handbooks) will result in serious penalties, which might range from failing an assignment, to failing a course, to being expelled from the program. Violations of academic and professional integrity will be reported to UMSI Student Affairs. Consequences impacting assignment or course grades are determined by the faculty instructor; additional sanctions may be imposed by the assistant dean for academic and student affairs.
 
-## Accommodations for Students with Disabilities
+### Accommodations for Students with Disabilities
 If you think you need an accommodation for a disability, please let me know at your earliest convenience. Some aspects of this course, the assignments, the in-class activities, and the way we teach may be modified to facilitate your participation and progress. As soon as you make me aware of your needs, we can work with the Office of Services for Students with Disabilities (SSD) to help us determine appropriate accommodations. SSD (734-763-3000; http://ssd.umich.edu/) typically recommends accommodations through a Verified Individualized Services and Accommodations (VISA) form. I will treat any information that you provide in as confidential a manner as possible.
