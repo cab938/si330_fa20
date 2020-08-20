@@ -11,7 +11,11 @@ Much of the work involved in data science (50-80% is the figure often quoted by 
 I have two jobs in this course: (a) to teach you and help you learn and (b) to evaluate whether you have learned. Sometimes these roles conflict. I set a high bar on expectations, but my goal with the assessments I give is to lower the stakes at any one time, and give you ample opportunity to demonstrate to me that you are capable with this material. 
 
 ## Textbook & Technology
-It is expected that you will have regular access to high speed consistent internet as well as a modern computing environment. The course will be offered synchronously and it is expected that you will attend all lectures and discussions. Please create a github user account to receive weekly assignments.
+It is expected that you will have regular access to high speed consistent internet as well as a modern computing environment. The course will be offered synchronously and it is expected that you will attend all lectures and discussions and that attendance will be taken.
+
+We are not using Canvas! A goal of this course is to help you level up your git skills through repeated practice, so lecture materials and assignments will be posted to the [course github page](https://github.com/cab938/si330_fa20). Please create a github user account to receive weekly assignments.
+
+The discussion forum for this course is in Google Rooms.
 
 The principal textbook for the course is *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and iPython* (2017) 2nd edition by Wes McKinney (O’Reilly).  The library has [digital copies](http://umich.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwpV09T8MwED2VhgEJqXwKyoe8sBFI7KSNJ4RoIgRIZYC5cuKLBCpR1SYD_x6fEwvowMKSxVLknBXfu7t37wCCtfvgvZnjwg-vmg89N48uhUblx1HsU8xLae0nfpvFD5lIe5C6vhiiWK5UaWJGApyrVjrCFVKt3ANlz9sxQddWu0mG0uDnWNyo5QZ4JPUe98GbTifp43fiRRrMQFPdN9t3_3An2QAcN6klkVi1JrfjNZ3Gf-9wBzykhoZd6GG1BwM3xoF1f_U-XDx_koAAM_CVTVStmBMquWS80izVltV1AK9Z-nJ373fTE_w3kmPww5Hx3OOgRBJcL3KJWsskipAXxH_iJgCVZZTkwiAQhVyUUogipKpZmeeK61AcwrYiln1V2248fQRsnOsoMdcALwRGOuHSgJ8YOZoYSKhEyWMYtuaYWXvMfn3y8K_FE9ji5DCJKxKcQr9eNngGnjX-eXeEX7lyrbw).
 
