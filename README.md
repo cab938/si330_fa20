@@ -28,6 +28,41 @@ Next 4 weeks: **Big Data** (Apache Spark)
 
 Last 2 weeks: **Extended Topics** (Data virtualization, SaaS computing paradigms, RPA)
 
+## Grading
+Grades are primarily based on individual assignments and these assignments are evenly weighted (10 assignments, 8% each = 80% of your grade). In addition, each week there will be a discussion section which you must attend, and each week the discussion section will have programming activities which are evenly weighted (10 discussion activities, 2% each = 20% of your grade).
+
+Tentative due dates for the assignments are as follows (all due at **1:00 PM Ann Arbor time, right before class begins**). Assignments will be distributed through github at least one week in advance.
+
+September 15th 
+September 22nd
+September 29th
+October 6th
+October 13th
+October 20th
+October 27th
+November 3rd
+November 10th
+November 17th
+
+Assignments in this class are intended to be challenging and to demonstrate your skills with the materials! They are also commulative, in that you will require skills from earlier assignments (e.g. regular expressions) to complete later assignments (e.g. pandas data frame manipulation). In addition to these assignments, there is one optional **bonus opportunity worth up to 20%** which can be completed by the end of regular classes (December 8th). This assignment can be used to raise your grade or demonstrate your excellence.
+
+Your letter grade will be assigned using the following formula:
+
+Total Assignment Scores|Letter Equivalent
+-|-
+>100|A+
+95-100|A
+90-95|A-
+85-90|B+
+80-85|B
+75-80|B-
+70-75|C+
+65-70|C
+60-65|C-
+55-60|D+
+50-55|D
+<50|E
+
 ## UMSI specific policies
 
 Please note the following UM or UMSI specific policies with respect to this course.
