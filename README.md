@@ -48,20 +48,20 @@ Assignments in this class are intended to be challenging and to demonstrate your
 
 Your letter grade will be assigned using the following formula:
 
-Total Assignment Scores|Letter Equivalent
--|-
->100|A+
-95-100|A
-90-95|A-
-85-90|B+
-80-85|B
-75-80|B-
-70-75|C+
-65-70|C
-60-65|C-
-55-60|D+
-50-55|D
-<50|E
+|Total Scores | Letter Equivalent|
+|-------------|------------------|
+>100         |A+
+95-100       |A
+90-95        |A-
+85-90        |B+
+80-85        |B
+75-80        |B-
+70-75        |C+
+65-70        |C
+60-65        |C-
+55-60        |D+
+50-55        |D
+<50          |E
 
 ## UMSI specific policies
 
