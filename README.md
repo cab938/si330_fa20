@@ -23,6 +23,7 @@ The principal textbook for the course is *Python for Data Analysis: Data Wrangli
 First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 
 |Date|Topics|
+|-|-|
 |September 1| Introduction, syllabus, overview of course, expectations, the Jupyter environment, python skills, introduction to regular expressions|
 |September 3| Python skills assessment|
 |September 8| Regular expressions, Assignment 1 released|
