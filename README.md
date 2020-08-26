@@ -11,7 +11,7 @@ Much of the work involved in data science (50-80% is the figure often quoted by 
 I have two jobs in this course: (a) to teach you and help you learn and (b) to evaluate whether you have learned. Sometimes these roles conflict. I set a high bar on expectations, but my goal with the assessments I give is to lower the stakes at any one time, and give you ample opportunity to demonstrate to me that you are capable with this material. 
 
 ## Textbook & Technology
-It is expected that you will have regular access to high speed consistent internet as well as a modern computing environment. The course will be offered synchronously and it is expected that you will attend all lectures and discussions and that attendance will be taken.
+It is expected that you will have regular access to high speed consistent internet as well as a modern computing environment. The course will be offered **synchronously and it is expected that you will attend** all lectures and discussions and that attendance will be taken. A listing of course times is available on the [google calendar](https://calendar.google.com/calendar?cid=Y19qOWluMHJnbWtlODAxbzFhY2Y3bDVvZGhpb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for the course.
 
 We are not using Canvas! A goal of this course is to help you level up your git skills through repeated practice, so lecture materials and assignments will be posted to the [course github page](https://github.com/cab938/si330_fa20). Please create a github user account to receive weekly assignments.
 
