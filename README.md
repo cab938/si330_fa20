@@ -15,7 +15,7 @@ It is expected that you will have regular access to high speed consistent intern
 
 We are not using Canvas! A goal of this course is to help you level up your git skills through repeated practice, so lecture materials and assignments will be posted to the [course github page](https://github.com/cab938/si330_fa20). Please create a github user account to receive weekly assignments.
 
-The discussion forum for this course is in Google Rooms.
+The discussion forum for this course is in Google Rooms. You can find this in your UM gmail, or here: https://chat.google.com/room/AAAAo3Tpdy8
 
 The principal textbook for the course is *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and iPython* (2017) 2nd edition by Wes McKinney (O’Reilly).  The library has [digital copies](http://umich.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwpV09T8MwED2VhgEJqXwKyoe8sBFI7KSNJ4RoIgRIZYC5cuKLBCpR1SYD_x6fEwvowMKSxVLknBXfu7t37wCCtfvgvZnjwg-vmg89N48uhUblx1HsU8xLae0nfpvFD5lIe5C6vhiiWK5UaWJGApyrVjrCFVKt3ANlz9sxQddWu0mG0uDnWNyo5QZ4JPUe98GbTifp43fiRRrMQFPdN9t3_3An2QAcN6klkVi1JrfjNZ3Gf-9wBzykhoZd6GG1BwM3xoF1f_U-XDx_koAAM_CVTVStmBMquWS80izVltV1AK9Z-nJ373fTE_w3kmPww5Hx3OOgRBJcL3KJWsskipAXxH_iJgCVZZTkwiAQhVyUUogipKpZmeeK61AcwrYiln1V2248fQRsnOsoMdcALwRGOuHSgJ8YOZoYSKhEyWMYtuaYWXvMfn3y8K_FE9ji5DCJKxKcQr9eNngGnjX-eXeEX7lyrbw).
 
