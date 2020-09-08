@@ -13,7 +13,7 @@ I have two jobs in this course: (a) to teach you and help you learn and (b) to e
 ## Textbook & Technology
 It is expected that you will have regular access to high speed consistent internet as well as a modern computing environment. The course will be offered **synchronously and it is expected that you will attend** all lectures and discussions and that attendance will be taken. A listing of course times is available on the [google calendar](https://calendar.google.com/calendar?cid=Y19qOWluMHJnbWtlODAxbzFhY2Y3bDVvZGhpb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for the course.
 
-We are not using Canvas! A goal of this course is to help you level up your git skills through repeated practice, so lecture materials and assignments will be posted to the [course github page](https://github.com/cab938/si330_fa20). Please create a github user account to receive weekly assignments.
+We are not using Canvas! A goal of this course is to help you level up your git skills through repeated practice, so lecture materials and assignments will be posted to the [course github page](https://github.com/cab938/si330_fa20). Please create a github user account to receive weekly assignments. This is our programming environment: https://si330.mentoracademy.org/
 
 The discussion forum for this course is in Google Rooms. You can find this in your UM gmail, or here: https://chat.google.com/room/AAAAo3Tpdy8
 
