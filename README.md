@@ -26,7 +26,11 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |-|-|
 |September 1| Introduction, syllabus, overview of course, expectations, the Jupyter environment, python skills, introduction to regular expressions|
 |September 3| Python skills assessment|
-|September 8| Regular expressions, Assignment 1 released|
+|September 8| [Regular expressions, Assignment 1 released](https://umich.zoom.us/rec/share/61uu3q-xTWFXhJNmXhMJswLS-Z-20BTgM8y9W8hY5VJsZRpdL6qvN5lzF-6R1IA0.goOAsukjtAA2Pn8M) |
+|September 10| Numpy |
+|September 15| Pandas, Assignment 2 released |
+
+
 
 Next 4 weeks: **Scalable Structured Data** (SQL)
 
