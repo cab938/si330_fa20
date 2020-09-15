@@ -42,7 +42,7 @@ Next 4 weeks: **Big Data** (Apache Spark)
 Last 2 weeks: **Extended Topics** (Data virtualization, SaaS computing paradigms, RPA)
 
 ## Grading
-Grades are primarily based on individual assignments and these assignments are evenly weighted (10 assignments, 8% each = 80% of your grade). In addition, each week there will be a discussion section which you must attend, and each week the discussion section will have programming activities which are evenly weighted (10 discussion activities, 2% each = 20% of your grade). Late work is penalized at 10% per 24 hours late.
+Grades are primarily based on individual assignments and these assignments are evenly weighted (10 assignments, 8% each = 80% of your grade). In addition, each week there will be a discussion section which you must attend, and each week the discussion section will have programming activities which are evenly weighted (10 discussion activities, 2% each = 20% of your grade; **Due to the GEO job action the first discussion is canceled and grades re-allocated to the first assignment**). Late work is penalized at 10% per 24 hours late.
 
 Tentative due dates and topics for the assignments are as follows (all due at **1:00 PM Ann Arbor time, right before class begins**). Assignments will be distributed through github at least one week in advance.
 
