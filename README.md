@@ -28,7 +28,7 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |September 3| Python skills assessment|
 |September 8| [Regular expressions, Assignment 1 released](https://umich.zoom.us/rec/share/61uu3q-xTWFXhJNmXhMJswLS-Z-20BTgM8y9W8hY5VJsZRpdL6qvN5lzF-6R1IA0.goOAsukjtAA2Pn8M) |
 |September 10| [Numpy](https://umich.zoom.us/rec/share/lY5SJ-sk_YbzptA3_Awd4AA01nADnSP-RJn4jw2E7AwL15G_ExI91OhOsz2r1rSx._SbFkZupF5rTaTv3) |
-|September 15| Introduction to Pandas, Assignment 2 released |
+|September 15| [Introduction to Pandas, Assignment 2 released](https://umich.zoom.us/rec/share/ajrdrEauz2ByQVUHKjUahyXa-0TtofcFiLpNCkAKpeVJoGsF5EAwqYgcuBnX1reC.YqBnsbmHini17GmK) |
 |September 17| The `DataFrame` structure |
 |September 22| Querying `DataFrame` objects, Assignment 3 released |
 
