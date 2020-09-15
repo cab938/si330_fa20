@@ -27,8 +27,11 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |September 1| Introduction, syllabus, overview of course, expectations, the Jupyter environment, python skills, introduction to regular expressions|
 |September 3| Python skills assessment|
 |September 8| [Regular expressions, Assignment 1 released](https://umich.zoom.us/rec/share/61uu3q-xTWFXhJNmXhMJswLS-Z-20BTgM8y9W8hY5VJsZRpdL6qvN5lzF-6R1IA0.goOAsukjtAA2Pn8M) |
-|September 10| Numpy |
-|September 15| Pandas, Assignment 2 released |
+|September 10| [Numpy](https://umich.zoom.us/rec/share/lY5SJ-sk_YbzptA3_Awd4AA01nADnSP-RJn4jw2E7AwL15G_ExI91OhOsz2r1rSx._SbFkZupF5rTaTv3) |
+|September 15| [Introduction to Pandas, Assignment 2 released](https://umich.zoom.us/rec/share/ajrdrEauz2ByQVUHKjUahyXa-0TtofcFiLpNCkAKpeVJoGsF5EAwqYgcuBnX1reC.YqBnsbmHini17GmK) |
+|September 17| The `DataFrame` structure |
+|September 22| Querying `DataFrame` objects, Assignment 3 released |
+
 
 
 
@@ -39,7 +42,7 @@ Next 4 weeks: **Big Data** (Apache Spark)
 Last 2 weeks: **Extended Topics** (Data virtualization, SaaS computing paradigms, RPA)
 
 ## Grading
-Grades are primarily based on individual assignments and these assignments are evenly weighted (10 assignments, 8% each = 80% of your grade). In addition, each week there will be a discussion section which you must attend, and each week the discussion section will have programming activities which are evenly weighted (10 discussion activities, 2% each = 20% of your grade). Late work is penalized at 10% per 24 hours late.
+Grades are primarily based on individual assignments and these assignments are evenly weighted (10 assignments, 8% each = 80% of your grade). In addition, each week there will be a discussion section which you must attend, and each week the discussion section will have programming activities which are evenly weighted (10 discussion activities, 2% each = 20% of your grade; **Due to the GEO job action the first discussion is canceled and grades re-allocated to the first assignment**). Late work is penalized at 10% per 24 hours late.
 
 Tentative due dates and topics for the assignments are as follows (all due at **1:00 PM Ann Arbor time, right before class begins**). Assignments will be distributed through github at least one week in advance.
 
