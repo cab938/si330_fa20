@@ -46,7 +46,7 @@ Tentative due dates and topics for the assignments are as follows (all due at **
 |Due Date | Topic|  Assignment Link|
 |-|-|-|
 |September 15th | Assignment 1, regular expressions| https://classroom.github.com/a/nhf1p7uI |
-|September 22nd | Assignment 2, pandas| |
+|September 22nd | Assignment 2, pandas| https://classroom.github.com/a/43s9r5k2 |
 |September 29th | Assignment 3, pandas| |
 |October 6th | Assignment 4, pandas| |
 |October 13th | Assignment 5, pandas| |
