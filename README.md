@@ -30,9 +30,10 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |September 10| [Numpy](https://umich.zoom.us/rec/share/lY5SJ-sk_YbzptA3_Awd4AA01nADnSP-RJn4jw2E7AwL15G_ExI91OhOsz2r1rSx._SbFkZupF5rTaTv3) |
 |September 15| [Introduction to Pandas, Assignment 2 released](https://umich.zoom.us/rec/share/ajrdrEauz2ByQVUHKjUahyXa-0TtofcFiLpNCkAKpeVJoGsF5EAwqYgcuBnX1reC.YqBnsbmHini17GmK) |
 |September 17| [The `DataFrame` structure] (https://umich.zoom.us/rec/share/J9asblzHUaL4NYlGiOtFTWBCpnW4STlpNY92dB5nOmPM9Kg0sHq-SpFAHPKZK97H.WOqhtibdmiihwpNJ)|
-|September 22| Querying `DataFrame` objects, Assignment 3 released |
-
-
+|September 22| [Querying `DataFrame` objects](https://umich.zoom.us/rec/share/eFGQgQGp2asM4yi1BQEX3vp9xwBke2hbJ_oRrWGidZ1TwO9c0bgkpn83GVOXE9A2.SbK9aIVzKZnjYu3a), Assignment 3 released |
+|September 24| [More querying `DataFrame` objects](https://umich.zoom.us/rec/share/RcsVUpNVbpmmjqF-bfM4cM-jmqPo3YLZzJWOBL2WLIyj5lPWegD9XcWl_6xsayg4.tjRMWpX4_nbKn8A0) |
+|September 29| Apply and cleaning `DataFrame` with merge, Assignment 4 released |
+|October 1| Merging and `GroupBy` |
 
 
 Next 4 weeks: **Scalable Structured Data** (SQL)
