@@ -19,6 +19,8 @@ The discussion forum for this course is in Google Rooms. You can find this in yo
 
 The principal textbook for the course is *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and iPython* (2017) 2nd edition by Wes McKinney (O’Reilly).  The library has [digital copies](http://umich.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwpV09T8MwED2VhgEJqXwKyoe8sBFI7KSNJ4RoIgRIZYC5cuKLBCpR1SYD_x6fEwvowMKSxVLknBXfu7t37wCCtfvgvZnjwg-vmg89N48uhUblx1HsU8xLae0nfpvFD5lIe5C6vhiiWK5UaWJGApyrVjrCFVKt3ANlz9sxQddWu0mG0uDnWNyo5QZ4JPUe98GbTifp43fiRRrMQFPdN9t3_3An2QAcN6klkVi1JrfjNZ3Gf-9wBzykhoZd6GG1BwM3xoF1f_U-XDx_koAAM_CVTVStmBMquWS80izVltV1AK9Z-nJ373fTE_w3kmPww5Hx3OOgRBJcL3KJWsskipAXxH_iJgCVZZTkwiAQhVyUUogipKpZmeeK61AcwrYiln1V2248fQRsnOsoMdcALwRGOuHSgJ8YOZoYSKhEyWMYtuaYWXvMfn3y8K_FE9ji5DCJKxKcQr9eNngGnjX-eXeEX7lyrbw).
 
+There is a Coursera course on data analysis that contains overlapping material with this class and might be helpful if you want extra practice or video tutorials. The supplementary material may be found [here](https://www.coursera.org/learn/python-data-analysis).
+
 ## Tentative Schedule of Topics
 First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 
