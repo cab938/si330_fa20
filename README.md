@@ -56,7 +56,7 @@ Tentative due dates and topics for the assignments are as follows (all due at **
 |September 29th | Assignment 3, pandas| https://classroom.github.com/a/-R__cBX0 |
 |October 6th | Assignment 4, pandas| https://classroom.github.com/a/9xoHkPVG |
 |October 13th | Assignment 5, pandas| [https://classroom.github.com/a/hYyenAx_](https://classroom.github.com/a/hYyenAx_) |
-|October 20th | Assignment 6, sql| |
+|October 20th | Assignment 6, sql| https://classroom.github.com/a/pQu6M5bk |
 |October 27th | Assignment 7, sql| |
 |November 3rd | Assignment 8, sql| |
 |November 10th | Assignment 9, spark| |
