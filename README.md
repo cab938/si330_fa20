@@ -36,7 +36,10 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |September 24| [More querying `DataFrame` objects](https://umich.zoom.us/rec/share/RcsVUpNVbpmmjqF-bfM4cM-jmqPo3YLZzJWOBL2WLIyj5lPWegD9XcWl_6xsayg4.tjRMWpX4_nbKn8A0) |
 |September 29| Apply and cleaning `DataFrame` with merge, Assignment 4 released |
 |October 1| Merging and `GroupBy` |
-
+|October 6| [lecture](https://umich.zoom.us/rec/share/J5RgPevwbztMzKgRYRCzeTHWu0BkTbebefRwkoVPr10JG9JzXvZPsXOVj037fKa9.4Px7CCHCcvVhwUWx) |
+|October 8| [lecture](https://umich.zoom.us/rec/share/t8DEF7hxM1q91iLCcvnCy0IeA-TNvwvfriSifABpX4t6cXfr4719XEByDavJhTpR.DUv2W4IbfG6yllJ9) |
+|October 13| [Timeseries 1](https://umich.zoom.us/rec/share/1tBa-IT__O7Acl3gKrJ62TAOs_SKkyjEN3A1Bwr1qJq-hPy0tygxMdK80sJ6N24t.iED6WI9sNSG5a9L4) |
+|October 15| Timeseries 2 |
 
 Next 4 weeks: **Scalable Structured Data** (SQL)
 
