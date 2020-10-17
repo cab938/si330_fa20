@@ -39,7 +39,7 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |October 6| [lecture](https://umich.zoom.us/rec/share/J5RgPevwbztMzKgRYRCzeTHWu0BkTbebefRwkoVPr10JG9JzXvZPsXOVj037fKa9.4Px7CCHCcvVhwUWx) |
 |October 8| [lecture](https://umich.zoom.us/rec/share/t8DEF7hxM1q91iLCcvnCy0IeA-TNvwvfriSifABpX4t6cXfr4719XEByDavJhTpR.DUv2W4IbfG6yllJ9) |
 |October 13| [Timeseries 1](https://umich.zoom.us/rec/share/1tBa-IT__O7Acl3gKrJ62TAOs_SKkyjEN3A1Bwr1qJq-hPy0tygxMdK80sJ6N24t.iED6WI9sNSG5a9L4) |
-|October 15| Timeseries 2 |
+|October 15| [Timeseries 2](https://umich.zoom.us/rec/share/lnne74_AZ9u4EoIeFCxqwU8Q1qsM1DLHLZjJ1n5jW8RdtFk4Kv7-dj3vr3Mfj2wM.WeqR7Vj5WbIebigT) |
 
 Next 4 weeks: **Scalable Structured Data** (SQL)
 
