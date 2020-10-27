@@ -31,7 +31,7 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |September 8| [Regular expressions, Assignment 1 released](https://umich.zoom.us/rec/share/61uu3q-xTWFXhJNmXhMJswLS-Z-20BTgM8y9W8hY5VJsZRpdL6qvN5lzF-6R1IA0.goOAsukjtAA2Pn8M) |
 |September 10| [Numpy](https://umich.zoom.us/rec/share/lY5SJ-sk_YbzptA3_Awd4AA01nADnSP-RJn4jw2E7AwL15G_ExI91OhOsz2r1rSx._SbFkZupF5rTaTv3) |
 |September 15| [Introduction to Pandas, Assignment 2 released](https://umich.zoom.us/rec/share/ajrdrEauz2ByQVUHKjUahyXa-0TtofcFiLpNCkAKpeVJoGsF5EAwqYgcuBnX1reC.YqBnsbmHini17GmK) |
-|September 17| [The `DataFrame` structure] (https://umich.zoom.us/rec/share/J9asblzHUaL4NYlGiOtFTWBCpnW4STlpNY92dB5nOmPM9Kg0sHq-SpFAHPKZK97H.WOqhtibdmiihwpNJ)|
+|September 17| [The `DataFrame` structure](https://umich.zoom.us/rec/share/J9asblzHUaL4NYlGiOtFTWBCpnW4STlpNY92dB5nOmPM9Kg0sHq-SpFAHPKZK97H.WOqhtibdmiihwpNJ)|
 |September 22| [Querying `DataFrame` objects](https://umich.zoom.us/rec/share/eFGQgQGp2asM4yi1BQEX3vp9xwBke2hbJ_oRrWGidZ1TwO9c0bgkpn83GVOXE9A2.SbK9aIVzKZnjYu3a), Assignment 3 released |
 |September 24| [More querying `DataFrame` objects](https://umich.zoom.us/rec/share/RcsVUpNVbpmmjqF-bfM4cM-jmqPo3YLZzJWOBL2WLIyj5lPWegD9XcWl_6xsayg4.tjRMWpX4_nbKn8A0) |
 |September 29| Apply and cleaning `DataFrame` with merge, Assignment 4 released |
@@ -39,7 +39,7 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |October 6| [lecture](https://umich.zoom.us/rec/share/J5RgPevwbztMzKgRYRCzeTHWu0BkTbebefRwkoVPr10JG9JzXvZPsXOVj037fKa9.4Px7CCHCcvVhwUWx) |
 |October 8| [lecture](https://umich.zoom.us/rec/share/t8DEF7hxM1q91iLCcvnCy0IeA-TNvwvfriSifABpX4t6cXfr4719XEByDavJhTpR.DUv2W4IbfG6yllJ9) |
 |October 13| [Timeseries 1](https://umich.zoom.us/rec/share/1tBa-IT__O7Acl3gKrJ62TAOs_SKkyjEN3A1Bwr1qJq-hPy0tygxMdK80sJ6N24t.iED6WI9sNSG5a9L4) |
-|October 15| Timeseries 2 |
+|October 15| [Timeseries 2](https://umich.zoom.us/rec/share/lnne74_AZ9u4EoIeFCxqwU8Q1qsM1DLHLZjJ1n5jW8RdtFk4Kv7-dj3vr3Mfj2wM.WeqR7Vj5WbIebigT) |
 
 Next 4 weeks: **Scalable Structured Data** (SQL)
 
@@ -60,7 +60,7 @@ Tentative due dates and topics for the assignments are as follows (all due at **
 |October 6th | Assignment 4, pandas| https://classroom.github.com/a/9xoHkPVG |
 |October 13th | Assignment 5, pandas| [https://classroom.github.com/a/hYyenAx_](https://classroom.github.com/a/hYyenAx_) |
 |October 20th | Assignment 6, sql| https://classroom.github.com/a/pQu6M5bk |
-|October 27th | Assignment 7, sql| |
+|October 27th | Assignment 7, sql| https://classroom.github.com/a/8TYSYkLQ |
 |November 3rd | Assignment 8, sql| |
 |November 10th | Assignment 9, spark| |
 |November 17th | Assignment 10, spark| |
