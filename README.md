@@ -40,8 +40,10 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |October 8| [lecture](https://umich.zoom.us/rec/share/t8DEF7hxM1q91iLCcvnCy0IeA-TNvwvfriSifABpX4t6cXfr4719XEByDavJhTpR.DUv2W4IbfG6yllJ9) |
 |October 13| [Timeseries 1](https://umich.zoom.us/rec/share/1tBa-IT__O7Acl3gKrJ62TAOs_SKkyjEN3A1Bwr1qJq-hPy0tygxMdK80sJ6N24t.iED6WI9sNSG5a9L4) |
 |October 15| [Timeseries 2](https://umich.zoom.us/rec/share/lnne74_AZ9u4EoIeFCxqwU8Q1qsM1DLHLZjJ1n5jW8RdtFk4Kv7-dj3vr3Mfj2wM.WeqR7Vj5WbIebigT) |
-
-Next 4 weeks: **Scalable Structured Data** (SQL)
+|October 22| [lecture topics](https://umich.zoom.us/rec/share/eibOnNTaWLcoFDgyJ4qYdbcG47Qm2Pq9c6cLnpWKq3TjQC_rJE3LqFsuhqUsMsaN.D2J0-T_FxfkEf6p-)
+|October 27| [SQL Data Modeling](https://umich.zoom.us/rec/share/rDgeU5jbjlU-1WbX8lOhOV58tfaTw7DANoTnvGLqauj1m8KK-cdgx3M2jif2FHqs.9HItRa6TcNP6GvIV)
+|October 29| [SQL DDL](https://umich.zoom.us/rec/share/WAOWXgfddZnOByyLyjWMG9ExW2Y4QscPYUGUHUIpCWMs1hkUl4xWLj6Pu7M766xm.ov-f1F2s-w6SVbx7)
+|November 5| [SQL SELECT](https://umich.zoom.us/rec/share/SvPXAov51k2LWK0feLeDjhmz7NaXkptEjYeqzM5ooQBIRZ3YmHI4GFcvuLl1wX6r.7Merz5rfAUFdnyAo)
 
 Next 4 weeks: **Big Data** (Apache Spark)
 
@@ -62,8 +64,8 @@ Tentative due dates and topics for the assignments are as follows (all due at **
 |October 20th | Assignment 6, sql| https://classroom.github.com/a/pQu6M5bk |
 |October 27th | Assignment 7, sql| https://classroom.github.com/a/8TYSYkLQ |
 |November 3rd | Assignment 8, sql| https://classroom.github.com/a/SiLqLKPg |
-|November 10th | Assignment 9, spark| https://classroom.github.com/a/bAiJh5PW |
-|November 17th | Assignment 10, spark| |
+|November 10th | Assignment 9, sql| https://classroom.github.com/a/bAiJh5PW |
+|December 8th | Assignment 10, data analysis| |
 
 Assignments in this class are intended to be challenging and to demonstrate your skills with the materials! They are also commulative, in that you will require skills from earlier assignments (e.g. regular expressions) to complete later assignments (e.g. pandas data frame manipulation). In addition to these assignments, there is one optional **bonus opportunity worth up to 20%** which can be completed by the end of regular classes (December 8th). This assignment can be used to raise your grade or distinguish your abilities. The bonus assignment details will be released in mid-October.
 
