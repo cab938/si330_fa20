@@ -64,7 +64,7 @@ Tentative due dates and topics for the assignments are as follows (all due at **
 |October 20th | Assignment 6, sql| https://classroom.github.com/a/pQu6M5bk |
 |October 27th | Assignment 7, sql| https://classroom.github.com/a/8TYSYkLQ |
 |November 3rd | Assignment 8, sql| https://classroom.github.com/a/SiLqLKPg |
-|November 10th | Assignment 9, sql| https://classroom.github.com/a/bAiJh5PW |
+|November 17th | Assignment 9, sql| https://classroom.github.com/a/bAiJh5PW |
 |December 8th | Assignment 10, data analysis| |
 
 Assignments in this class are intended to be challenging and to demonstrate your skills with the materials! They are also commulative, in that you will require skills from earlier assignments (e.g. regular expressions) to complete later assignments (e.g. pandas data frame manipulation). In addition to these assignments, there is one optional **bonus opportunity worth up to 20%** which can be completed by the end of regular classes (December 8th). This assignment can be used to raise your grade or distinguish your abilities. The bonus assignment details will be released in mid-October.
