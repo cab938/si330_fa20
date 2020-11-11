@@ -1,0 +1,14 @@
+GET /stats.aspx?path=football&year=2019 HTTP/1.1
+Host: bigten.org
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: _ga=GA1.2.3170305.1605116810; _gid=GA1.2.1444838093.1605116810; _fbp=fb.1.1605116810493.611572036; __gads=ID=e1e617161a50cf8a:T=1605116811:S=ALNI_Mbwq-tc_wohxD7B027yibeGaA4LpA
