@@ -44,8 +44,10 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |October 27| [SQL Data Modeling](https://umich.zoom.us/rec/share/rDgeU5jbjlU-1WbX8lOhOV58tfaTw7DANoTnvGLqauj1m8KK-cdgx3M2jif2FHqs.9HItRa6TcNP6GvIV)
 |October 29| [SQL DDL](https://umich.zoom.us/rec/share/WAOWXgfddZnOByyLyjWMG9ExW2Y4QscPYUGUHUIpCWMs1hkUl4xWLj6Pu7M766xm.ov-f1F2s-w6SVbx7)
 |November 5| [SQL SELECT](https://umich.zoom.us/rec/share/SvPXAov51k2LWK0feLeDjhmz7NaXkptEjYeqzM5ooQBIRZ3YmHI4GFcvuLl1wX6r.7Merz5rfAUFdnyAo)
+|November 10| [SQL Topics](https://umich.zoom.us/rec/share/kqk3QnjsjeAcObyDwUf7R7O0_9E53qWkcupGgQucmuj1D_OVMR5IyXuZmGFtQmjc.av9gX7rD1k79MfEz)
+|November 12| No recording
+|November 17| What does the future hold?
 
-Next 4 weeks: **Big Data** (Apache Spark)
 
 Last 2 weeks: **Extended Topics** (Data virtualization, SaaS computing paradigms, RPA)
 
@@ -65,7 +67,9 @@ Tentative due dates and topics for the assignments are as follows (all due at **
 |October 27th | Assignment 7, sql| https://classroom.github.com/a/8TYSYkLQ |
 |November 3rd | Assignment 8, sql| https://classroom.github.com/a/SiLqLKPg |
 |November 17th | Assignment 9, sql| https://classroom.github.com/a/bAiJh5PW |
-|December 8th | Assignment 10, data analysis| https://classroom.github.com/a/Q9rV6Twu |
+|December 1th | Assignment 10, data analysis| https://classroom.github.com/a/Q9rV6Twu |
+|December 10th | Bonus Assignment: Creative Instruction (5%) due | [bonus1.md](bonus1.md) |
+|December 10th | Bonus Assignment: Data Manipulation Skills (15%) due | [bonus2.md](bonus2.md) |
 
 Assignments in this class are intended to be challenging and to demonstrate your skills with the materials! They are also commulative, in that you will require skills from earlier assignments (e.g. regular expressions) to complete later assignments (e.g. pandas data frame manipulation). In addition to these assignments, there is one optional **bonus opportunity worth up to 20%** which can be completed by the end of regular classes (December 8th). This assignment can be used to raise your grade or distinguish your abilities. The bonus assignment details will be released in mid-October.
 
@@ -87,7 +91,6 @@ Your letter grade will be assigned using the following formula:
 |<50          |E                 |
 
 ## UMSI specific policies
-
 Please note the following UM or UMSI specific policies with respect to this course.
 
 ### COVID Statement
