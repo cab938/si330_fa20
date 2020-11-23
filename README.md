@@ -46,10 +46,8 @@ First 4-6 weeks: **Python Toolkits for Data Manipulation** (Python pandas)
 |November 5| [SQL SELECT](https://umich.zoom.us/rec/share/SvPXAov51k2LWK0feLeDjhmz7NaXkptEjYeqzM5ooQBIRZ3YmHI4GFcvuLl1wX6r.7Merz5rfAUFdnyAo)
 |November 10| [SQL Topics](https://umich.zoom.us/rec/share/kqk3QnjsjeAcObyDwUf7R7O0_9E53qWkcupGgQucmuj1D_OVMR5IyXuZmGFtQmjc.av9gX7rD1k79MfEz)
 |November 12| No recording
-|November 17| What does the future hold?
-
-
-Last 2 weeks: **Extended Topics** (Data virtualization, SaaS computing paradigms, RPA)
+|November 17| [SQL Topics](https://umich.zoom.us/rec/share/-6fDXCLTo43JRrOnJ6XbElGQCzx4yG9oLHTA6P64dNG0blRj7JqQUm82ec_iQym4.jEtjpacCRRUD98oO)
+|November 19| [SQL Topics](https://umich.zoom.us/rec/share/fKiOphZWywXC7BL5S156GrwtlrQKZozoNXdSCH9yNE1Gei5Xl3ms3quYQJilWa07.CzC5HswAz5AAynzJ)
 
 ## Grading
 Grades are primarily based on individual assignments and these assignments are evenly weighted (10 assignments, 8% each = 80% of your grade). In addition, each week there will be a discussion section which you must attend, and each week the discussion section will have programming activities which are evenly weighted (10 discussion activities, 2% each = 20% of your grade; **Due to the GEO job action the first discussion is canceled and grades re-allocated to the first assignment**). Late work is penalized at 10% per 24 hours late.
@@ -69,7 +67,7 @@ Tentative due dates and topics for the assignments are as follows (all due at **
 |November 17th | Assignment 9, sql| https://classroom.github.com/a/bAiJh5PW |
 |December 1st | Assignment 10, data analysis| |
 |December 10th | Bonus Assignment: Creative Instruction (5%) due | [bonus1.md](bonus1.md) |
-|December 10th | Bonus Assignment: Data Manipulation Skills (15%) due | [bonus2.md](bonus2.md) |
+|December 10th | Bonus Assignment: Data Manipulation Skills (15%) due | [bonus2.ipynb](bonus2.ipynb) |
 
 Assignments in this class are intended to be challenging and to demonstrate your skills with the materials! They are also commulative, in that you will require skills from earlier assignments (e.g. regular expressions) to complete later assignments (e.g. pandas data frame manipulation). In addition to these assignments, there is one optional **bonus opportunity worth up to 20%** which can be completed by the end of regular classes (December 8th). This assignment can be used to raise your grade or distinguish your abilities. The bonus assignment details will be released in mid-October.
 
