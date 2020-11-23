@@ -65,7 +65,7 @@ Tentative due dates and topics for the assignments are as follows (all due at **
 |October 27th | Assignment 7, sql| https://classroom.github.com/a/8TYSYkLQ |
 |November 3rd | Assignment 8, sql| https://classroom.github.com/a/SiLqLKPg |
 |November 17th | Assignment 9, sql| https://classroom.github.com/a/bAiJh5PW |
-|December 1st | Assignment 10, data analysis| |
+|December 1th | Assignment 10, data analysis| https://classroom.github.com/a/Q9rV6Twu |
 |December 10th | Bonus Assignment: Creative Instruction (5%) due | [bonus1.md](bonus1.md) |
 |December 10th | Bonus Assignment: Data Manipulation Skills (15%) due | [bonus2.ipynb](bonus2.ipynb) |
 
